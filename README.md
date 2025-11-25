@@ -1,2 +1,2 @@
 # PoFAD
-Pearl of Functional Algorithm Design in F#
+Pearls of Functional Algorithm Design in F#
