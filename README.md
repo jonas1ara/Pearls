@@ -1,2 +1,2 @@
-# PoFP
-Pearl of Functional Programming in F#
+# PoFAD
+Pearl of Functional Algorithm Design in F#
